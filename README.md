@@ -9,7 +9,7 @@ Welcome to my "100 Days of Code in Python" challenge! In this repository, I'll b
 - **Purpose:** To sharpen my programming skills, learn new concepts, and document my progress.
 
 ## Projects
-You can find all of my daily projects in the [Projects](https://github.com/yourusername/100-days-of-code-in-python/projects) tab. Each project will have its own directory containing code, documentation, and any necessary resources.
+You can find all of my daily projects in the [Projects](https://github.com/whoisvedant/100-DAYS-OF-CODE-PYTHON) tab. Each project will have its own directory containing code, documentation, and any necessary resources.
 
 ## Let's Connect!
 I'd love to hear your thoughts, feedback, and suggestions on my projects. Feel free to open issues, submit pull requests, or reach out to me on [LinkedIn](www.linkedin.com/in/vedant-jadhav-1928fj) if you have any questions or just want to chat about coding!
